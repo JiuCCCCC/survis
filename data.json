@@ -1,0 +1,154 @@
+{
+  "papers": [
+    {
+      "id": "askell2021general",
+      "title": "A General Language Assistant as a Laboratory for Alignment",
+      "authors": [
+        "Askell, A.",
+        "et al."
+      ],
+      "year": 2021,
+      "tags": [
+        "alignment",
+        "LLM"
+      ],
+      "venue": "arXiv",
+      "link": "https://doi.org/10.48550/arXiv.2112.00861"
+    },
+    {
+      "id": "bai2022constitutional",
+      "title": "Constitutional AI: Harmlessness from AI Feedback",
+      "authors": [
+        "Bai, Y.",
+        "et al."
+      ],
+      "year": 2022,
+      "tags": [
+        "safety",
+        "LLM"
+      ],
+      "venue": "arXiv",
+      "link": "https://doi.org/10.48550/arXiv.2212.08073"
+    },
+    {
+      "id": "ganguli2022red",
+      "title": "Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned",
+      "authors": [
+        "Ganguli, D.",
+        "et al."
+      ],
+      "year": 2022,
+      "tags": [
+        "red teaming",
+        "harm reduction"
+      ],
+      "venue": "arXiv",
+      "link": "https://doi.org/10.48550/arXiv.2209.07858"
+    },
+    {
+      "id": "geiger2023alignable",
+      "title": "Finding Alignable Dimensions through Mechanistic Interpretability",
+      "authors": [
+        "Geiger, A.",
+        "et al."
+      ],
+      "year": 2023,
+      "tags": [
+        "interpretability",
+        "alignment"
+      ],
+      "venue": "arXiv",
+      "link": "https://doi.org/10.48550/arXiv.2307.05013"
+    },
+    {
+      "id": "greshake2023prompt",
+      "title": "Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Prompt Injection",
+      "authors": [
+        "Greshake, K.",
+        "et al."
+      ],
+      "year": 2023,
+      "tags": [
+        "prompt injection",
+        "security"
+      ],
+      "venue": "arXiv",
+      "link": "https://doi.org/10.48550/arXiv.2302.12173"
+    },
+    {
+      "id": "liu2023safety",
+      "title": "Analyzing and Improving Safety of LLMs: A Taxonomy and Survey of Vulnerabilities",
+      "authors": [
+        "Liu, H.",
+        "et al."
+      ],
+      "year": 2023,
+      "tags": [
+        "taxonomy",
+        "safety"
+      ],
+      "venue": "arXiv",
+      "link": "https://doi.org/10.48550/arXiv.2309.10483"
+    },
+    {
+      "id": "marks2023unsafe",
+      "title": "Detecting Unsafe Content Through Automated Concept Induction",
+      "authors": [
+        "Marks, S.",
+        "et al."
+      ],
+      "year": 2023,
+      "tags": [
+        "content detection",
+        "safety"
+      ],
+      "venue": "arXiv",
+      "link": "https://doi.org/10.48550/arXiv.2306.09367"
+    },
+    {
+      "id": "pan2023risk",
+      "title": "Risk Taxonomy and Mitigation Strategies for LLMs",
+      "authors": [
+        "Pan, L.",
+        "et al."
+      ],
+      "year": 2023,
+      "tags": [
+        "risk",
+        "mitigation"
+      ],
+      "venue": "arXiv",
+      "link": "https://doi.org/10.48550/arXiv.2308.14524"
+    },
+    {
+      "id": "wolf2023limitations",
+      "title": "Fundamental Limitations of Alignment in Large Language Models",
+      "authors": [
+        "Wolf, Y.",
+        "et al."
+      ],
+      "year": 2023,
+      "tags": [
+        "alignment",
+        "limitations"
+      ],
+      "venue": "arXiv",
+      "link": "https://doi.org/10.48550/arXiv.2304.08945"
+    },
+    {
+      "id": "zhang2023benchmarking",
+      "title": "Benchmarking Foundation Models on Exceptional Cases",
+      "authors": [
+        "Zhang, Y.",
+        "et al."
+      ],
+      "year": 2023,
+      "tags": [
+        "evaluation",
+        "benchmarking"
+      ],
+      "venue": "arXiv",
+      "link": "https://doi.org/10.48550/arXiv.2310.17610"
+    }
+  ]
+}
